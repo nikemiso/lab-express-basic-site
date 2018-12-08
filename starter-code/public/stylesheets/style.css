@@ -1,0 +1,28 @@
+body {
+    background-color: lightgrey;
+    font-family: helvetica, arial;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    margin: 35px;
+}
+
+a {
+    text-align: center;
+    padding: 10px;
+}
+
+button {
+    background-color: peachpuff;
+    color: grey;
+    align-items: center;
+}
+
+.center {
+    align-items: center;
+}
